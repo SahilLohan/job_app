@@ -1,0 +1,4 @@
+{
+    "model_provider":"ollama",
+    "model":"qwen2.5:3b"
+}
